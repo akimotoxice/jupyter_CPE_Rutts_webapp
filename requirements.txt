@@ -1,4 +1,4 @@
-docx==0.8.11
+#docx==0.8.11
 docxtpl==0.15.2
 ipywidgets==7.7.1
 matplotlib==3.3.4
