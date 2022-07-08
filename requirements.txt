@@ -1,4 +1,4 @@
-﻿-end2trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
+-end2trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
 -erkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
 -lask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 -pywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
