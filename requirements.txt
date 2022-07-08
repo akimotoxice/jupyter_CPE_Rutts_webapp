@@ -1,0 +1,8 @@
+docx==0.8.11
+docxtpl==0.15.2
+ipywidgets==7.7.1
+matplotlib==3.3.4
+numpy==1.20.1
+openpyxl==3.0.7
+pandas==1.2.4
+session_info==1.0.0
