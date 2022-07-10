@@ -1,4 +1,3 @@
--raitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
 altgraph==0.17.2
 amqp==5.1.1
 anaconda-client==1.7.2
