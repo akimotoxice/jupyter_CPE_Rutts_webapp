@@ -7,4 +7,3 @@ numpy==1.20.1
 openpyxl==3.0.7
 pandas==1.2.4
 python_docx==0.8.11
-~pywidgets==7.6.3
