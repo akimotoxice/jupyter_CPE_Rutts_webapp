@@ -1,3 +1,5 @@
+voila>=0.1.8
+voila-vuetify>=0.0.1a6
 docx
 docxtpl==0.15.2
 ipywidgets==7.7.1
