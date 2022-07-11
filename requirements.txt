@@ -7,4 +7,4 @@ numpy==1.20.1
 openpyxl==3.0.7
 pandas==1.2.4
 python_docx==0.8.11
-voila==0.3.5
+voila==0.3.0
