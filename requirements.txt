@@ -1,7 +1,7 @@
 docx
 docxtpl
 ipython
-ipywidget
+ipywidgets==7.7.1
 matplotlib
 numpy
 openpyxl
