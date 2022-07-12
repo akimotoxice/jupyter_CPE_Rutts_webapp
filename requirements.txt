@@ -8,3 +8,6 @@ openpyxl
 pandas
 python_docx
 voila
+tk==0.1.0
+requests==2.23.0
+Pillow >= 7
