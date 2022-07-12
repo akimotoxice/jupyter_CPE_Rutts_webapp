@@ -1,7 +1,6 @@
 docx==0.2.4
 docxtpl==0.15.2
 ipython
-ipywidgets==7.7.1
 matplotlib==3.3.4
 numpy==1.20.1
 openpyxl==3.0.7
