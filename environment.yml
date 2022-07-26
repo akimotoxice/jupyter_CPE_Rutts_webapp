@@ -1,4 +1,0 @@
-channels:
-  - pyviz
-dependencies:
-  - jupyter-panel-proxy
