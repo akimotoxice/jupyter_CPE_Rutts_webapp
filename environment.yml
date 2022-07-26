@@ -15,4 +15,3 @@ dependencies:
   - anaconda-navigator
   - navigator-updater
   - panel
-prefix: C:\ProgramData\Anaconda3
