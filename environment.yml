@@ -1,6 +1,6 @@
 name: base
 channels:
-  - defaults
+  - pyviz
 dependencies:
   - conda
   - python=3.8
@@ -15,3 +15,4 @@ dependencies:
   - anaconda-navigator
   - navigator-updater
   - panel
+  - jupyter-panel-proxy
