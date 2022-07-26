@@ -4,4 +4,3 @@ dependencies:
   - pyviz::pyviz_comms=0.7.2
   - pyviz::datashader
   - pyviz::panel=0.12.1
-  - tornado<6  
