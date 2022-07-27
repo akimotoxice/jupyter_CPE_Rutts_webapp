@@ -7,7 +7,7 @@ matplotlib==3.3.4
 numpy==1.20.1
 openpyxl==3.0.7
 pandas==1.2.4
-panel==0.12.1
+panel==0.13.1
 python_docx==0.8.11
 voila==0.3.5
-bokeh
+bokeh==2.4.3
